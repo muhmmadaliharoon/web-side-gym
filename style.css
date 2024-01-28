@@ -13,6 +13,7 @@
     background-position: left center;
     position: fixed;
     z-index: 1;
+   overflow-y: hidden;
 }
 a{
     text-decoration: none;
